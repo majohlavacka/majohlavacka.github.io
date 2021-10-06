@@ -754,5 +754,16 @@ footer {
     }
 
     .zlavy-cena {
-        margin: 13px;
+        margin: 0px 0px 0px 50px;
+    }
+    .kontakt-k {
+        margin: 0px 0px 0px 70px;
+    }
+
+    .hrub{
+        font-weight: bold;
+    }
+
+    .cena {
+        margin: 0px 0px 0px 2px;
     }
